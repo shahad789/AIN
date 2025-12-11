@@ -1,0 +1,6538 @@
+[
+  {
+    "timestamp": "2025-12-08T17:33:53.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.11.194",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "7d496268-1491-417e-8033-bf15ac61b9b2",
+    "response_time_ms": 65,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:33:53.785851Z",
+    "user_id": "Fahad567",
+    "ip": "212.138.223.235",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "84eebe52",
+    "request_id": "5e4cf955-d9f7-44a5-be79-5ae0e3299ee7",
+    "response_time_ms": 419,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:33:59.785851Z",
+    "user_id": "Fahad567",
+    "ip": "212.138.154.80",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "84eebe52",
+    "request_id": "a55a889f-18f5-498c-8879-f323a3dab03c",
+    "response_time_ms": 230,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:34:05.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.215.6",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "d4aaa74e-15e8-4d14-8583-97fa022190e4",
+    "response_time_ms": 368,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:34:22.785851Z",
+    "user_id": "Fahad567",
+    "ip": "212.138.40.169",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "84eebe52",
+    "request_id": "9b0cdafb-38d1-42da-98e9-b8ed51ae8c72",
+    "response_time_ms": 296,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:34:34.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.33.122",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "0563c15d-c41f-410f-857d-14d9e8794365",
+    "response_time_ms": 392,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:34:58.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.120.180",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "ed2c5ea4-610c-4a64-8220-df7e04102981",
+    "response_time_ms": 181,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:35:00.785851Z",
+    "user_id": "Fahad567",
+    "ip": "212.138.90.217",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "84eebe52",
+    "request_id": "2f1deec2-6edf-4d53-bea3-6e5111a67ada",
+    "response_time_ms": 334,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:35:57.785851Z",
+    "user_id": "Fahad567",
+    "ip": "212.138.196.72",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "84eebe52",
+    "request_id": "ff665841-e8c2-442d-8e8e-fa21b729ec7e",
+    "response_time_ms": 343,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:36:46.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.43.156",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "94b32573-c1f1-4a7d-8f5a-a6f1fd765ef2",
+    "response_time_ms": 360,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:38:31.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.200.210",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "9c1e5387-a895-4c9c-9e9a-91afa5859aaf",
+    "response_time_ms": 133,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T17:39:20.784527Z",
+    "user_id": "Nasser691",
+    "ip": "212.138.149.7",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "342b6a31",
+    "request_id": "60c9bf4a-241e-4f16-8b63-cd363df8b143",
+    "response_time_ms": 209,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:33:53.784660Z",
+    "user_id": "Majed629",
+    "ip": "188.247.126.143",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "992dec46",
+    "request_id": "291bb377-3279-4891-b33f-7022cebfe7c7",
+    "response_time_ms": 438,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:33:53.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.251.195",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "1180d119-eefa-41b5-9a25-0c7ece2074cd",
+    "response_time_ms": 318,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:33:53.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.68.150",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "0dbe279d-f867-4c70-8048-762177ab0392",
+    "response_time_ms": 245,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:34:05.784660Z",
+    "user_id": "Majed629",
+    "ip": "188.247.166.183",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "992dec46",
+    "request_id": "aff40171-fc88-4aea-9307-ade23ab643b4",
+    "response_time_ms": 301,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:34:17.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.252.26",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "40db3e98-0646-43ac-97bd-2c5b15e531ee",
+    "response_time_ms": 476,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:34:18.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.28.173",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "c2d1ef4a-7e49-4c42-a7dd-a5a3d20948d0",
+    "response_time_ms": 169,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:34:51.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.59.93",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "d288eedb-1fab-41d5-994c-e6ca229f0abc",
+    "response_time_ms": 141,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:35:12.784660Z",
+    "user_id": "Majed629",
+    "ip": "188.247.24.76",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "992dec46",
+    "request_id": "3a8adca7-a656-4221-99bd-fe215e269e8e",
+    "response_time_ms": 163,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:35:28.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.159.227",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "d272cf2b-8aeb-41dc-8508-2758a4f27030",
+    "response_time_ms": 337,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:35:39.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.182.137",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "4d4f1951-3bdb-4ff8-8cfb-5d2d6fb46215",
+    "response_time_ms": 114,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:36:13.784660Z",
+    "user_id": "Majed629",
+    "ip": "188.247.79.170",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "992dec46",
+    "request_id": "c2e46052-8609-4cf8-9a14-108616db4503",
+    "response_time_ms": 347,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:36:19.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.166.17",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "98d9999d-c731-42f8-b3f3-d8a4595abfb6",
+    "response_time_ms": 375,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:36:24.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.250.14",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "f0a2a2e0-2a8a-45f5-b4b0-117364c306fc",
+    "response_time_ms": 333,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:37:10.784660Z",
+    "user_id": "Majed629",
+    "ip": "188.247.142.136",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "992dec46",
+    "request_id": "6fa21c2d-757a-431b-9788-4159c88e0580",
+    "response_time_ms": 226,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:37:11.784706Z",
+    "user_id": "Fahad199",
+    "ip": "94.99.164.223",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "bac84b86",
+    "request_id": "8f1f33a9-507e-43d8-8545-50cdea7b0af8",
+    "response_time_ms": 435,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:38:14.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.233.180",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "393d42a5-2681-4d4b-b367-edaf8cf128a4",
+    "response_time_ms": 204,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:39:47.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.30.36",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "99f82a18-ddd3-4607-b5c8-7e1f8a350df5",
+    "response_time_ms": 73,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T18:40:01.785173Z",
+    "user_id": "Noura424",
+    "ip": "94.98.127.30",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "521f7358",
+    "request_id": "66a33e4a-ab1a-4cf3-88bf-b90822c11f4a",
+    "response_time_ms": 99,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T19:33:53.785005Z",
+    "user_id": "Sara779",
+    "ip": "94.99.167.21",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "090f4a01",
+    "request_id": "1815c2a7-03ab-4125-a2d0-d1ef60fda436",
+    "response_time_ms": 486,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T19:34:08.785005Z",
+    "user_id": "Sara779",
+    "ip": "94.99.245.82",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "090f4a01",
+    "request_id": "bf47b3b0-b274-42e9-9560-ecb41452d882",
+    "response_time_ms": 370,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T19:35:49.785005Z",
+    "user_id": "Sara779",
+    "ip": "94.99.224.139",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "090f4a01",
+    "request_id": "aeedc63c-7b22-48a1-b750-07cec26afeb9",
+    "response_time_ms": 68,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T19:37:18.785005Z",
+    "user_id": "Sara779",
+    "ip": "94.99.61.162",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "090f4a01",
+    "request_id": "dd3c22bd-bb1b-4f10-9036-09bee909857d",
+    "response_time_ms": 400,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T19:38:04.785005Z",
+    "user_id": "Sara779",
+    "ip": "94.99.192.24",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "090f4a01",
+    "request_id": "a1f9cddb-f116-4327-9fdf-3c2f0ed8a0c4",
+    "response_time_ms": 272,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:33:53.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.185.197",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "a8dffb6a-e8c4-4050-af51-0e5d62efd390",
+    "response_time_ms": 387,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:33:53.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.24.166",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "30efec2c-bfec-4344-88e7-d0f5c907047a",
+    "response_time_ms": 393,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:34:11.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.5.93",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "c20d2a38-b8d5-4054-97ea-26014302a951",
+    "response_time_ms": 208,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:34:19.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.161.25",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "d2f57822-c04a-4b91-af5b-d3a7f5485cc5",
+    "response_time_ms": 371,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:34:44.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.88.243",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "ae570370-f985-4606-8e12-2d5f6bc1979e",
+    "response_time_ms": 442,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:35:51.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.80.202",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "dac7a423-2368-4247-8e14-c3934599cbe8",
+    "response_time_ms": 275,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:35:56.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.58.36",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "35d1c9b6-54ce-486d-b2fa-978345b5620d",
+    "response_time_ms": 129,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:36:05.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.188.34",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "cb0edc06-31bd-41e4-bce9-96c076599010",
+    "response_time_ms": 96,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:36:15.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.217.202",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "6df1a9ab-27e8-47b6-bd7a-e95fa26d28d8",
+    "response_time_ms": 101,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:36:52.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.192.107",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "c9d5a257-f738-41fc-9acc-f4cf05a2f36d",
+    "response_time_ms": 139,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:37:27.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.202.139",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "d681745c-935e-4d9b-a84e-831d350ea525",
+    "response_time_ms": 498,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:37:29.786141Z",
+    "user_id": "Faisal588",
+    "ip": "212.138.170.87",
+    "city": "Riyadh",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "4444c476",
+    "request_id": "e5033d0a-f69e-48ab-847b-713a94818068",
+    "response_time_ms": 498,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:38:23.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.213.43",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "b1074212-7b74-4120-929c-acd879c504e2",
+    "response_time_ms": 181,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T20:40:18.785116Z",
+    "user_id": "Hassan169",
+    "ip": "86.110.248.207",
+    "city": "Khobar",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "9f870274",
+    "request_id": "88b51f14-de5d-4103-a232-29d890b7f082",
+    "response_time_ms": 201,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:33:53.784851Z",
+    "user_id": "Nasser412",
+    "ip": "86.111.235.72",
+    "city": "Dammam",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "648de46d",
+    "request_id": "b6cd1504-c4a6-4561-bced-0c07f6af7206",
+    "response_time_ms": 142,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:33:53.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.224.26",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "6f2f675b-833a-4812-a035-a8063dd6342e",
+    "response_time_ms": 277,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:34:03.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.232.8",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "4ba3616e-a7b7-4d0a-ae5f-f6075795bb20",
+    "response_time_ms": 73,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:34:16.784851Z",
+    "user_id": "Nasser412",
+    "ip": "86.111.163.209",
+    "city": "Dammam",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "648de46d",
+    "request_id": "ab6184c9-a8e1-4f89-a148-9f39956db8e1",
+    "response_time_ms": 301,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:34:37.784851Z",
+    "user_id": "Nasser412",
+    "ip": "86.111.90.105",
+    "city": "Dammam",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "648de46d",
+    "request_id": "6967d3f4-aa8b-4817-add2-0fffd8d00af2",
+    "response_time_ms": 220,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:34:54.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.76.92",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "ad4a483b-d3ba-44b4-9f79-74c1bb3d8489",
+    "response_time_ms": 241,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:35:28.784851Z",
+    "user_id": "Nasser412",
+    "ip": "86.111.220.42",
+    "city": "Dammam",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "648de46d",
+    "request_id": "4b6a04ea-f17f-4f38-9c76-39100fde4e0a",
+    "response_time_ms": 218,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:35:59.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.63.136",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "4f600761-44de-4d06-baec-35dadbebbbf2",
+    "response_time_ms": 260,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:36:30.784851Z",
+    "user_id": "Nasser412",
+    "ip": "86.111.74.170",
+    "city": "Dammam",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "648de46d",
+    "request_id": "f2f5866d-cf44-46b4-a02a-4a3872851686",
+    "response_time_ms": 255,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:37:21.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.44.45",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "8f0d77d0-e82c-49e8-909a-107cf11a52e6",
+    "response_time_ms": 90,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:38:49.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.159.175",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "525f70c4-d267-474a-8a80-db6c25bcd345",
+    "response_time_ms": 173,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T21:40:02.785029Z",
+    "user_id": "Dana269",
+    "ip": "86.111.60.119",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e370ca63",
+    "request_id": "0d320223-8ccd-4cc2-8935-cf57ce5bc91b",
+    "response_time_ms": 376,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:33:53.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.192.226",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "0459bad5-290e-4066-b393-2fcf48cf08a8",
+    "response_time_ms": 119,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:33:53.786035Z",
+    "user_id": "Hassan586",
+    "ip": "94.99.222.249",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a0404113",
+    "request_id": "8e37c448-f90a-42b1-8af6-2bfc30213ccf",
+    "response_time_ms": 371,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:34:00.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.198.203",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "06b133d9-31ea-4e94-bef3-98c195a11d9f",
+    "response_time_ms": 487,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:34:08.786035Z",
+    "user_id": "Hassan586",
+    "ip": "94.99.113.18",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "a0404113",
+    "request_id": "9cf7f0ab-5b0b-40b7-8d92-5a6507120be6",
+    "response_time_ms": 290,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:35:03.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.240.202",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "41637333-baf6-4df6-86a1-c07d79b255af",
+    "response_time_ms": 309,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:35:14.786035Z",
+    "user_id": "Hassan586",
+    "ip": "94.99.204.71",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "a0404113",
+    "request_id": "c5276ff9-7603-4b70-99e3-e93e5b34c606",
+    "response_time_ms": 352,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:35:31.786035Z",
+    "user_id": "Hassan586",
+    "ip": "94.99.130.19",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "a0404113",
+    "request_id": "ef1e6464-af44-4266-b415-bea1725a2bdf",
+    "response_time_ms": 208,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:35:47.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.73.186",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "29ccf74e-0526-4b99-989c-971c674a5b45",
+    "response_time_ms": 202,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:37:44.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.222.39",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "160a34c0-b39e-4d46-963f-36c04446d10e",
+    "response_time_ms": 278,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T22:39:02.784939Z",
+    "user_id": "Fatima897",
+    "ip": "86.110.89.86",
+    "city": "Khobar",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "a474c589",
+    "request_id": "d031e6d6-543d-4f32-a5a3-6c06b575a35f",
+    "response_time_ms": 332,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:33:53.784987Z",
+    "user_id": "Lama984",
+    "ip": "95.187.223.26",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "68246e78",
+    "request_id": "2cba6d47-4d00-4543-9d47-5bf2321a5534",
+    "response_time_ms": 497,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:33:53.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.245.203",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "09c9651b-9bdc-428f-8e20-b7074b121c21",
+    "response_time_ms": 428,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:33:53.786193Z",
+    "user_id": "Noura424",
+    "ip": "94.98.119.197",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "1e15b36f",
+    "request_id": "a7c0d474-30e4-48c7-8521-e4a13c41d037",
+    "response_time_ms": 194,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:33:59.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.233.208",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "cc4b889c-7e38-482f-b52c-9e02733e3637",
+    "response_time_ms": 342,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:34:12.784987Z",
+    "user_id": "Lama984",
+    "ip": "95.187.135.234",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "68246e78",
+    "request_id": "d092cfcc-20bf-43e3-8637-8a6c3aab1a29",
+    "response_time_ms": 283,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:34:22.786193Z",
+    "user_id": "Noura424",
+    "ip": "94.98.129.136",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "1e15b36f",
+    "request_id": "90a7fe35-fb90-44aa-8dfd-2c8c47f5b334",
+    "response_time_ms": 264,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:34:23.784987Z",
+    "user_id": "Lama984",
+    "ip": "95.187.105.223",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "68246e78",
+    "request_id": "071d6418-9d78-4fc5-9fe0-b3a0d5e187aa",
+    "response_time_ms": 385,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:34:52.784987Z",
+    "user_id": "Lama984",
+    "ip": "95.187.121.201",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "68246e78",
+    "request_id": "aad3cc9b-e251-4660-93fa-1a73a6df0bcd",
+    "response_time_ms": 185,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:34:52.786193Z",
+    "user_id": "Noura424",
+    "ip": "94.98.206.155",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "1e15b36f",
+    "request_id": "7f8069bc-394e-4f27-a5c0-8860c74fb620",
+    "response_time_ms": 120,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:35:32.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.83.155",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "d31045fc-0371-4723-aed3-c156b37111b6",
+    "response_time_ms": 293,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:35:34.786193Z",
+    "user_id": "Noura424",
+    "ip": "94.98.165.124",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "1e15b36f",
+    "request_id": "149a37d4-08a8-458b-a5a4-30fc3e7c2fe7",
+    "response_time_ms": 497,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:36:31.786193Z",
+    "user_id": "Noura424",
+    "ip": "94.98.183.217",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "1e15b36f",
+    "request_id": "dd6c42f2-1f99-46bc-b58f-167f5187d2a5",
+    "response_time_ms": 314,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:36:46.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.246.16",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "f4d11351-7c4e-47bb-ad62-09bfeecb5c3c",
+    "response_time_ms": 280,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:37:09.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.252.183",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "9b483340-afd4-41bb-9b8b-b16ef58aef4a",
+    "response_time_ms": 93,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T23:38:23.786069Z",
+    "user_id": "Fatima136",
+    "ip": "86.111.11.64",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "da4b9175",
+    "request_id": "d0170cd3-5f89-420c-8ddb-8f6820ef859f",
+    "response_time_ms": 412,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:33:53.784685Z",
+    "user_id": "Sultan651",
+    "ip": "95.187.91.180",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a7fd0003",
+    "request_id": "ca4a88a0-69d6-416f-bba6-8bf2bdb4797a",
+    "response_time_ms": 282,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:33:53.784873Z",
+    "user_id": "Dana269",
+    "ip": "86.111.117.23",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "1e5e0ae4",
+    "request_id": "17e9a1f8-74d4-4aac-b30c-b477719f6b80",
+    "response_time_ms": 211,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:33:53.784916Z",
+    "user_id": "Dana204",
+    "ip": "94.99.24.58",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "83d78ffd",
+    "request_id": "4f21fbe2-9139-4d81-a24c-3b3443a82dc8",
+    "response_time_ms": 480,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:33:53.785840Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.151.245",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "c87efa50",
+    "request_id": "9f4584a8-a6eb-4ef1-9abe-870a4b378104",
+    "response_time_ms": 337,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:33:53.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.210.160",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "f12f6559-7c4d-46e2-8cdc-5e0dac4188e6",
+    "response_time_ms": 364,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:34:01.784916Z",
+    "user_id": "Dana204",
+    "ip": "94.99.243.31",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "83d78ffd",
+    "request_id": "e157d842-ccd1-4f6d-a875-ce1379cb0ca6",
+    "response_time_ms": 381,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:34:06.784685Z",
+    "user_id": "Sultan651",
+    "ip": "95.187.65.60",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "a7fd0003",
+    "request_id": "a56d4870-3418-4410-af24-f9af8cf5fe97",
+    "response_time_ms": 111,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:34:06.784873Z",
+    "user_id": "Dana269",
+    "ip": "86.111.30.249",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "1e5e0ae4",
+    "request_id": "f4b693b4-6519-4b69-87f8-8e83956b9ca8",
+    "response_time_ms": 445,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:34:15.785840Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.172.32",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "c87efa50",
+    "request_id": "2956a4f9-65f9-46bb-b325-9de4c9184dc7",
+    "response_time_ms": 260,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:34:19.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.156.238",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "2da05e52-063d-4aaf-a9a2-b441c43bc4ca",
+    "response_time_ms": 386,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:35:48.784685Z",
+    "user_id": "Sultan651",
+    "ip": "95.187.81.31",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "a7fd0003",
+    "request_id": "0ed228d7-13e6-4bf1-a4d6-52b65fa6f3e7",
+    "response_time_ms": 430,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:35:57.784916Z",
+    "user_id": "Dana204",
+    "ip": "94.99.128.239",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "83d78ffd",
+    "request_id": "d846cf0d-d4d6-4438-8efc-15b7b93a8216",
+    "response_time_ms": 416,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:36:15.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.8.47",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "28b47b41-fb52-457d-9d49-dede90214520",
+    "response_time_ms": 189,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:36:44.784916Z",
+    "user_id": "Dana204",
+    "ip": "94.99.107.214",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "83d78ffd",
+    "request_id": "13e46a5c-d151-46cd-9144-e9ae11b1a07b",
+    "response_time_ms": 297,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:37:06.784685Z",
+    "user_id": "Sultan651",
+    "ip": "95.187.50.56",
+    "city": "Medina",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "a7fd0003",
+    "request_id": "8411bd41-e1b0-4dd5-b012-06fbeefa8845",
+    "response_time_ms": 428,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:37:54.784916Z",
+    "user_id": "Dana204",
+    "ip": "94.99.117.142",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "83d78ffd",
+    "request_id": "2a8093f4-6ce4-4adc-938a-f42403a8ef06",
+    "response_time_ms": 124,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:37:54.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.236.87",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "2fdee570-ac40-4e54-a31a-8b4286da2859",
+    "response_time_ms": 229,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:38:04.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.223.37",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "c80ad814-9a3a-4509-80b3-376ba4bc975b",
+    "response_time_ms": 339,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:39:38.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.18.37",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "211dcb59-367b-4811-81e8-b7ed8491ee8b",
+    "response_time_ms": 429,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:41:09.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.24.192",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "85b182fe-a0f6-4611-b6be-3a8ac4caf0a4",
+    "response_time_ms": 321,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T00:41:46.785874Z",
+    "user_id": "Dana666",
+    "ip": "212.138.108.117",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "e87d201e",
+    "request_id": "6d38a302-1453-4b26-8968-f6b626d84af7",
+    "response_time_ms": 224,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:33:53.785776Z",
+    "user_id": "Omar923",
+    "ip": "94.98.118.165",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "f0f34a5c",
+    "request_id": "693381b8-0fa3-4ee0-a81c-f3e84eec8a33",
+    "response_time_ms": 65,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:33:53.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.30.136",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "72e9df8a-19b0-4444-acd3-01764ac60bd3",
+    "response_time_ms": 311,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:33:53.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.157.41",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "cd6e1039-3486-4237-801e-be90b350e35e",
+    "response_time_ms": 236,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:33:59.785776Z",
+    "user_id": "Omar923",
+    "ip": "94.98.217.103",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "f0f34a5c",
+    "request_id": "50c946ef-206a-4646-8fb4-4e6ef73b8017",
+    "response_time_ms": 268,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:34:04.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.90.187",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "46ce1244-0673-4094-b267-44b1350da58c",
+    "response_time_ms": 469,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:34:09.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.100.105",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "61f542ec-9081-4c38-8e50-636ba037dab5",
+    "response_time_ms": 446,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:35:02.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.203.162",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "a1dbd8b2-d75f-40f0-b530-9afeec63dc97",
+    "response_time_ms": 381,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:35:36.785776Z",
+    "user_id": "Omar923",
+    "ip": "94.98.126.183",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "f0f34a5c",
+    "request_id": "f3b88bf8-a121-4aa9-85c6-ebd9a8336865",
+    "response_time_ms": 277,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:35:36.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.61.27",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "37d55726-8f6e-4f04-b20a-0281f9a35372",
+    "response_time_ms": 124,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:35:54.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.85.25",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "f9f64231-d20b-4bf2-be3d-6146774f035a",
+    "response_time_ms": 335,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:35:55.785776Z",
+    "user_id": "Omar923",
+    "ip": "94.98.83.156",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "f0f34a5c",
+    "request_id": "f9f15d8d-7035-49df-8b2a-37fb23cc37ff",
+    "response_time_ms": 125,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:36:18.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.45.155",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "fdbaac65-e5b3-42aa-9084-bd242dcc6197",
+    "response_time_ms": 128,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:37:30.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.73.65",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "e27258ca-4289-4cba-b44e-3ce1d51a93d5",
+    "response_time_ms": 420,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:38:05.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.46.244",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "1c9e47d3-a3ad-4367-9a3b-1123702bc0ea",
+    "response_time_ms": 445,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:39:29.786096Z",
+    "user_id": "Ahmed194",
+    "ip": "94.99.86.21",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "180ec02b",
+    "request_id": "173403b4-e1cc-47ab-b6c0-7a832a72e17f",
+    "response_time_ms": 348,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:39:35.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.119.194",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "def8bba6-1e82-4b06-bf68-9bbe582f0831",
+    "response_time_ms": 338,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T01:41:22.786005Z",
+    "user_id": "Haya396",
+    "ip": "95.186.175.237",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "e4310865",
+    "request_id": "0e11ca51-2889-4474-8514-2c27ae7ed6d9",
+    "response_time_ms": 339,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:33:53.784645Z",
+    "user_id": "Maha619",
+    "ip": "94.99.91.205",
+    "city": "Mecca",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "21a53ea1",
+    "request_id": "dee589c1-97b1-4c2e-afdb-4a97227b5672",
+    "response_time_ms": 182,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:33:53.784829Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.21.154",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "fc4e3efc",
+    "request_id": "d20c020d-80c4-4985-a12c-bd01d6445109",
+    "response_time_ms": 70,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:34:08.784645Z",
+    "user_id": "Maha619",
+    "ip": "94.99.226.153",
+    "city": "Mecca",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "21a53ea1",
+    "request_id": "dcad29fa-172b-4774-af99-bdb4282def20",
+    "response_time_ms": 409,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:34:11.784829Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.155.65",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "fc4e3efc",
+    "request_id": "f4269607-ae73-451b-82b2-edd36729f58a",
+    "response_time_ms": 63,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:34:32.784829Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.247.173",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "fc4e3efc",
+    "request_id": "af0a1f2a-ec89-4490-80a7-37edb0507d65",
+    "response_time_ms": 478,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:34:53.784645Z",
+    "user_id": "Maha619",
+    "ip": "94.99.133.243",
+    "city": "Mecca",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "21a53ea1",
+    "request_id": "19974845-12ec-46e3-962e-4d24920ebf53",
+    "response_time_ms": 147,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:36:32.784829Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.196.173",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "fc4e3efc",
+    "request_id": "f7317040-13f0-4c1f-805c-ad03a578ee90",
+    "response_time_ms": 470,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T02:37:16.784829Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.196.194",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "fc4e3efc",
+    "request_id": "d2c02aee-adb6-4fef-904e-8fb25a772623",
+    "response_time_ms": 139,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:23:53.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.174.41",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "4598510d",
+    "request_id": "e7f70f05-292e-464e-8503-e0930a9e7598",
+    "response_time_ms": 163,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:24:23.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.37.218",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "1e3899d2",
+    "request_id": "0a9e5a6f-d395-4ce8-b6c1-b8ecb2470b24",
+    "response_time_ms": 1344,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:24:53.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.174.201",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "04d423d3",
+    "request_id": "54ce291c-62f8-4407-aee9-86a0c4b5eea6",
+    "response_time_ms": 997,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:25:23.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.9.33",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "a8b61c97",
+    "request_id": "b25b860b-9d20-4b7c-b3d5-732aff6ab00f",
+    "response_time_ms": 237,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:25:53.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.61.200",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "3309e94c",
+    "request_id": "85c91794-8a1d-46c6-8d30-844e4b04a7c9",
+    "response_time_ms": 380,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:25:53.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.64.246",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "93474275",
+    "request_id": "8ae2ab84-e529-4e5a-9a1b-a13d7d6e2b74",
+    "response_time_ms": 332,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:08.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.94.93",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "3309e94c",
+    "request_id": "8161d602-69e7-44b2-a326-966f630d0ef6",
+    "response_time_ms": 246,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:22.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.9.155",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Mobile Number",
+    "status": "success",
+    "session_id": "3309e94c",
+    "request_id": "651e41ed-bd32-47c3-b20d-994a510f9076",
+    "response_time_ms": 128,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:23.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.7.189",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "a401eb4d",
+    "request_id": "3e97c6a5-4b59-48ca-bc59-12b510a96132",
+    "response_time_ms": 481,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:37.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.116.243",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Bank Account",
+    "status": "success",
+    "session_id": "3309e94c",
+    "request_id": "7cb1a2ff-584c-4fec-9e4c-2b3e90be694f",
+    "response_time_ms": 239,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:47.786555Z",
+    "user_id": "Haya396",
+    "ip": "41.58.114.196",
+    "city": "Lagos",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Issue Exit Reentry",
+    "status": "success",
+    "session_id": "3309e94c",
+    "request_id": "234442d4-631c-4976-9b09-93cbbc1b9884",
+    "response_time_ms": 89,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:26:53.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.128.133",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "59f3828d",
+    "request_id": "87d9c79f-640a-4d37-8baf-680737e6b15c",
+    "response_time_ms": 892,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:27:53.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.234.144",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "07630180",
+    "request_id": "f86740fd-9fec-434d-8c39-082ac0a8aa91",
+    "response_time_ms": 110,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:28:08.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.68.199",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "07630180",
+    "request_id": "3190b7ee-dddf-4d4f-b6a7-bd042723b0c7",
+    "response_time_ms": 183,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:28:20.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.55.157",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Mobile Number",
+    "status": "success",
+    "session_id": "07630180",
+    "request_id": "960b7edd-2942-4935-b065-38f4db50ffc1",
+    "response_time_ms": 196,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:28:32.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.52.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Bank Account",
+    "status": "success",
+    "session_id": "07630180",
+    "request_id": "9ade6c16-8eea-4ff4-bcb2-16ad35ed8a41",
+    "response_time_ms": 119,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:28:38.786610Z",
+    "user_id": "Aisha508",
+    "ip": "51.140.116.45",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Issue Exit Reentry",
+    "status": "success",
+    "session_id": "07630180",
+    "request_id": "eb10552b-b777-49a0-8502-48401cc88fe8",
+    "response_time_ms": 415,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:33:53.784459Z",
+    "user_id": "Haya228",
+    "ip": "212.138.87.195",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "13983ee5",
+    "request_id": "15846b36-ec2b-46ad-a838-fdd58e725b50",
+    "response_time_ms": 500,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:34:10.784459Z",
+    "user_id": "Haya228",
+    "ip": "212.138.193.244",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "13983ee5",
+    "request_id": "443b7add-790e-465c-a3d9-4f22cb0c620e",
+    "response_time_ms": 475,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:35:13.784459Z",
+    "user_id": "Haya228",
+    "ip": "212.138.214.21",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "13983ee5",
+    "request_id": "21c59666-78a9-49c1-925b-ed9c17bc8a3c",
+    "response_time_ms": 290,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:35:25.784459Z",
+    "user_id": "Haya228",
+    "ip": "212.138.244.90",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "13983ee5",
+    "request_id": "91772e55-a5ef-428c-8224-aa344b792ca7",
+    "response_time_ms": 164,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:42:53.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.141.139",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "7b805634",
+    "request_id": "5b3b2f5d-9b16-456c-b1b4-be5eb6960863",
+    "response_time_ms": 694,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:43:23.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.229.77",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "3ff1e602",
+    "request_id": "8b24084d-d24b-49b4-996c-58eaafc2e69d",
+    "response_time_ms": 1843,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:44:53.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.41.183",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "fa596faa",
+    "request_id": "d8608971-3a69-4043-bd9f-6a112afbdd3b",
+    "response_time_ms": 413,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:45:08.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.238.180",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "fa596faa",
+    "request_id": "f8cf1759-6df3-4c02-9bce-bd6ecb932a71",
+    "response_time_ms": 376,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:45:15.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.204.93",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Mobile Number",
+    "status": "success",
+    "session_id": "fa596faa",
+    "request_id": "29c51e26-621b-44a5-a874-2f1b6cdca931",
+    "response_time_ms": 310,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:45:23.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.32.253",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Update Bank Account",
+    "status": "success",
+    "session_id": "fa596faa",
+    "request_id": "c0ab1557-377b-4463-ae51-d0b19fa78f09",
+    "response_time_ms": 152,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T03:45:30.786654Z",
+    "user_id": "Ali786",
+    "ip": "51.140.61.203",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Issue Exit Reentry",
+    "status": "success",
+    "session_id": "fa596faa",
+    "request_id": "eeb9610b-c79e-4739-be9b-bf789fdcb047",
+    "response_time_ms": 302,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:33:53.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.126.28",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "d5417d83-90d9-41c2-9a4c-787dfd0b1ed4",
+    "response_time_ms": 271,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:33:53.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.153.203",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "7130e30d-7fe4-4ec4-8e00-b06a17aebe41",
+    "response_time_ms": 366,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:33:53.784790Z",
+    "user_id": "Maha214",
+    "ip": "212.138.177.153",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "5aad95ac",
+    "request_id": "6500af87-7c63-489b-b2bc-e2f0b2bd4078",
+    "response_time_ms": 290,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:33:53.785969Z",
+    "user_id": "Ali881",
+    "ip": "212.138.118.236",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "dd326a50",
+    "request_id": "c9e7325d-28a4-48e2-92de-ef5efef35e15",
+    "response_time_ms": 89,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:05.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.116.233",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "a61cea93-82f3-409c-be4a-4b246dad08de",
+    "response_time_ms": 276,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:07.784790Z",
+    "user_id": "Maha214",
+    "ip": "212.138.60.74",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "5aad95ac",
+    "request_id": "cf9a8d02-d009-413d-92c3-9e069a38e2ce",
+    "response_time_ms": 411,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:08.785969Z",
+    "user_id": "Ali881",
+    "ip": "212.138.147.104",
+    "city": "Riyadh",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "dd326a50",
+    "request_id": "56f09596-c869-44d5-82b2-fec6deaaa2bd",
+    "response_time_ms": 413,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:09.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.182.40",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "0ad227e7-5320-41ec-981d-fca97999ab41",
+    "response_time_ms": 272,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:41.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.158.207",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "fbf49333-168d-478c-990d-8a6d82b11152",
+    "response_time_ms": 325,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:53.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.79.146",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "a567d708-648b-402b-af7c-fed173618bb9",
+    "response_time_ms": 367,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:34:53.784790Z",
+    "user_id": "Maha214",
+    "ip": "212.138.19.176",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "5aad95ac",
+    "request_id": "f2993762-68be-4933-8ece-2a2a8701be89",
+    "response_time_ms": 169,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:35:10.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.243.196",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "cf5ff7de-647f-4737-a0af-91291ece781c",
+    "response_time_ms": 156,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:35:36.784790Z",
+    "user_id": "Maha214",
+    "ip": "212.138.109.30",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "5aad95ac",
+    "request_id": "f9aeb1bd-ce7f-48d9-b2ea-2859baffb18b",
+    "response_time_ms": 328,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:36:14.784790Z",
+    "user_id": "Maha214",
+    "ip": "212.138.233.69",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "5aad95ac",
+    "request_id": "44e7458b-451e-452e-9af4-3329a6769e3a",
+    "response_time_ms": 473,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:36:30.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.120.112",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "7c74a1c0-36bb-466d-bfa2-c8dbe286f3bc",
+    "response_time_ms": 472,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:36:40.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.68.170",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "88b00075-5552-46f4-b148-0bac2634b8a5",
+    "response_time_ms": 91,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:37:10.784763Z",
+    "user_id": "Dana269",
+    "ip": "86.111.45.142",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "afabdad6",
+    "request_id": "13163124-17e8-4083-92c9-601f38b97b13",
+    "response_time_ms": 88,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:38:13.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.83.219",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "7a4cac13-7fa8-4c55-9948-2369fb837eae",
+    "response_time_ms": 175,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:40:09.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.72.226",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "0068e51c-4679-4c2b-b25d-401077b0c10d",
+    "response_time_ms": 280,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:40:50.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.146.157",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "8cda32fc-1dd3-46c2-b4ba-fa18d890760e",
+    "response_time_ms": 392,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T04:41:48.784606Z",
+    "user_id": "Dana204",
+    "ip": "94.99.8.127",
+    "city": "Mecca",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "2447f25e",
+    "request_id": "eaa0e121-7432-420d-b240-11ff8ea4880e",
+    "response_time_ms": 485,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:33:53.784578Z",
+    "user_id": "Noura424",
+    "ip": "94.98.242.184",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "af58702e",
+    "request_id": "632fd525-dd8f-4b78-8ffa-cfb4fd88b053",
+    "response_time_ms": 151,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:33:53.784964Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.239.83",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "60be01be",
+    "request_id": "21cb1a71-207f-4ea5-a61e-6a2a8a5a41d4",
+    "response_time_ms": 495,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:33:53.785097Z",
+    "user_id": "Omar923",
+    "ip": "94.98.3.145",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "6d2cd9f2",
+    "request_id": "9131424c-22a2-49eb-ab2e-805857ad215f",
+    "response_time_ms": 492,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:33:53.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.15.2",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "e1e9c9ac-0eea-4099-8c45-c91ace20475c",
+    "response_time_ms": 154,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:00.784578Z",
+    "user_id": "Noura424",
+    "ip": "94.98.27.179",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "af58702e",
+    "request_id": "0102fba0-4d5b-4779-b488-01be00430abc",
+    "response_time_ms": 445,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:04.784964Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.147.99",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "60be01be",
+    "request_id": "bb678531-78ba-4dd1-978a-21e8369a59d9",
+    "response_time_ms": 169,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:07.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.197.36",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "1d4adaa5-8447-46e0-aa24-a258058dab0e",
+    "response_time_ms": 441,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:19.785097Z",
+    "user_id": "Omar923",
+    "ip": "94.98.234.156",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "6d2cd9f2",
+    "request_id": "188385ac-42d0-4243-ac23-1313a0a333b1",
+    "response_time_ms": 431,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:48.784578Z",
+    "user_id": "Noura424",
+    "ip": "94.98.204.252",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "af58702e",
+    "request_id": "2262c84a-d41a-4687-b489-0a5ce623069b",
+    "response_time_ms": 339,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:34:49.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.84.31",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "38cc85bb-bcf7-4d47-a9ea-7d44357e6489",
+    "response_time_ms": 53,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:35:32.785097Z",
+    "user_id": "Omar923",
+    "ip": "94.98.199.205",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "6d2cd9f2",
+    "request_id": "75564721-0e15-4495-8f55-6e56faac9c39",
+    "response_time_ms": 167,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:36:02.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.45.34",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "3451b534-194a-4514-b289-0e85925f166e",
+    "response_time_ms": 244,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:36:03.784964Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.12.82",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "60be01be",
+    "request_id": "8317003d-36cc-4424-a08e-979e45e2c58f",
+    "response_time_ms": 431,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:36:38.784578Z",
+    "user_id": "Noura424",
+    "ip": "94.98.89.137",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "af58702e",
+    "request_id": "3479c7c8-70b2-407c-8607-9e7bbeb5f337",
+    "response_time_ms": 269,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:36:59.785097Z",
+    "user_id": "Omar923",
+    "ip": "94.98.57.163",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "6d2cd9f2",
+    "request_id": "950a80cf-c27e-4011-8a56-7a67349589b8",
+    "response_time_ms": 147,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:37:13.784964Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.99.254",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "60be01be",
+    "request_id": "e434733d-d9b2-409a-9281-82badc1da153",
+    "response_time_ms": 389,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:37:20.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.129.144",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "46b954ca-ea21-4a2d-a547-8fa97a258a1b",
+    "response_time_ms": 476,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:38:12.784578Z",
+    "user_id": "Noura424",
+    "ip": "94.98.18.130",
+    "city": "Tabuk",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "af58702e",
+    "request_id": "a16fcee0-484b-4e59-bc7d-8d2859c308b6",
+    "response_time_ms": 381,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:38:55.785940Z",
+    "user_id": "Ibrahim640",
+    "ip": "86.111.19.102",
+    "city": "Dammam",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "62d34397",
+    "request_id": "c96dcd22-8265-41f9-af56-c1d90a2bfd94",
+    "response_time_ms": 491,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T05:39:04.784964Z",
+    "user_id": "Ibrahim282",
+    "ip": "188.247.127.247",
+    "city": "Jeddah",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "60be01be",
+    "request_id": "90997aaa-e926-4e7a-a571-12b3f79e2879",
+    "response_time_ms": 68,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T06:33:53.786123Z",
+    "user_id": "Haya148",
+    "ip": "86.111.248.168",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "09374160",
+    "request_id": "5eac8af0-b392-473c-b6dc-a9783aa6bcc6",
+    "response_time_ms": 407,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T06:34:19.786123Z",
+    "user_id": "Haya148",
+    "ip": "86.111.34.153",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "09374160",
+    "request_id": "573e2f8f-6f6a-4f2a-899f-ac94538ec14b",
+    "response_time_ms": 412,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T06:34:39.786123Z",
+    "user_id": "Haya148",
+    "ip": "86.111.144.97",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "09374160",
+    "request_id": "e326effe-9da0-4e0e-bf48-952593bc72cd",
+    "response_time_ms": 379,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T06:36:30.786123Z",
+    "user_id": "Haya148",
+    "ip": "86.111.209.33",
+    "city": "Dammam",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "09374160",
+    "request_id": "575d2635-4139-49b3-a2bc-6ee7921a90a6",
+    "response_time_ms": 393,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:33:53.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.84.199",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "84a058a9-1bd1-410a-aaad-79c8722ecc80",
+    "response_time_ms": 340,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:33:53.785979Z",
+    "user_id": "Yousef779",
+    "ip": "212.138.104.6",
+    "city": "Riyadh",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "e931cd0f",
+    "request_id": "83e91023-3c81-4252-b0ab-417b2367bf83",
+    "response_time_ms": 216,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:33:53.786286Z",
+    "user_id": "Noura165",
+    "ip": "188.247.241.187",
+    "city": "Jeddah",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "4acb915b",
+    "request_id": "a4dc44a6-3253-4592-97c6-85936b30d99e",
+    "response_time_ms": 361,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:34:03.785979Z",
+    "user_id": "Yousef779",
+    "ip": "212.138.213.177",
+    "city": "Riyadh",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "e931cd0f",
+    "request_id": "f550f4d8-5789-444d-9d17-f3e064effec9",
+    "response_time_ms": 235,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:34:17.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.227.14",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "5fedf2b5-b86b-4c69-a3cb-4b15e0fc8c66",
+    "response_time_ms": 129,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:34:47.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.173.21",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "bc649b90-d23f-4d82-b799-b582f40816cf",
+    "response_time_ms": 189,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:35:53.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.125.156",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "d938cb70-10e0-4295-a43a-79eb4714f278",
+    "response_time_ms": 276,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:36:56.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.56.194",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "4c1cd76d-c4ed-49eb-aeea-59f02329ded9",
+    "response_time_ms": 312,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:37:20.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.111.29",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "ef564e78-7adf-493f-b6b9-1daf4603c73f",
+    "response_time_ms": 195,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:38:53.786286Z",
+    "user_id": "Noura165",
+    "ip": "188.247.136.109",
+    "city": "Jeddah",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "4acb915b",
+    "request_id": "af354e84-7467-49a0-bc5d-8f54628f2469",
+    "response_time_ms": 106,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T08:38:56.785911Z",
+    "user_id": "Noura183",
+    "ip": "188.247.135.171",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "1936642e",
+    "request_id": "3b9dc771-29c4-4222-a212-9055cf6e5d55",
+    "response_time_ms": 207,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:03:53.786286Z",
+    "user_id": "Noura165",
+    "ip": "51.140.78.32",
+    "city": "London",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "491a1daa",
+    "request_id": "bb517ff0-7fc6-419a-8bb2-8f99b73e7ad3",
+    "response_time_ms": 74,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:05:53.786286Z",
+    "user_id": "Noura165",
+    "ip": "51.140.108.164",
+    "city": "London",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Update Mobile Number",
+    "status": "success",
+    "session_id": "491a1daa",
+    "request_id": "2b5fc2d7-d914-45cb-bf2f-5eca2a2bd66c",
+    "response_time_ms": 456,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:33:53.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.3.231",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "d8b5716d-e2f6-4c13-be31-1068d15b0da5",
+    "response_time_ms": 461,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:33:53.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.252.38",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "6bb010d8-6cbe-4d89-8032-22b0f6853e01",
+    "response_time_ms": 116,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:33:53.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.163.150",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "e22b8094-ce84-46f0-9dd5-517ce17c2567",
+    "response_time_ms": 330,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:33:53.786307Z",
+    "user_id": "Sara779",
+    "ip": "94.99.17.29",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "fcdbfc88",
+    "request_id": "9f60f664-c8f6-4a50-8bc6-37018c335188",
+    "response_time_ms": 478,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:34:12.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.174.140",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "4ca11aa8-5c30-477c-bc57-55ba70f9914b",
+    "response_time_ms": 130,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:34:15.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.205.45",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "66321798-2dc0-4c73-95b4-b0cb338427fe",
+    "response_time_ms": 106,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:34:20.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.98.153",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "86d34602-89fc-4a12-a0bc-ea67fd8f7587",
+    "response_time_ms": 321,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:34:31.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.242.89",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "28d8e189-f641-4508-8e0c-2507f0108dce",
+    "response_time_ms": 350,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:35:07.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.130.155",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "09569877-fc6e-4a1e-8a34-c11a634e9f9a",
+    "response_time_ms": 270,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:35:19.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.177.65",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "a7a08518-5a39-4bd8-a68f-e763395eef94",
+    "response_time_ms": 283,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:35:29.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.219.168",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "0d69ed52-ab84-4bf9-8711-fa8d15b3ff04",
+    "response_time_ms": 383,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:35:49.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.34.4",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "159335f4-3024-48b0-bdbd-57b6ec3ef5c5",
+    "response_time_ms": 233,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:37:17.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.51.99",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "96dca6ed-b5ab-4117-b77d-ff062e641a69",
+    "response_time_ms": 486,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:37:17.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.111.116",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "565d4c84-81da-436d-bf9c-bf3b159f1e0e",
+    "response_time_ms": 166,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:37:40.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.151.83",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "18c9d07c-2f4e-4e34-8cdc-93fb23854b2f",
+    "response_time_ms": 58,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:38:12.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.14.33",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "014e7d4b-a3f9-47fd-a9e4-cb391d19160e",
+    "response_time_ms": 429,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:38:19.785795Z",
+    "user_id": "Khalid371",
+    "ip": "212.138.212.117",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "a2a244eb",
+    "request_id": "9f9c76a1-9dc1-4533-9a10-6879812c625b",
+    "response_time_ms": 254,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:38:28.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.61.98",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "3ee216bc-1a75-4c71-bb08-fd81d67f16da",
+    "response_time_ms": 342,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:38:53.786307Z",
+    "user_id": "Sara779",
+    "ip": "94.99.232.128",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "fcdbfc88",
+    "request_id": "490c9144-0a57-4833-ad8f-552f8a6a9c04",
+    "response_time_ms": 355,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:39:15.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.191.17",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "439083de-3f8b-4cc4-80ab-09f6bf7bad1b",
+    "response_time_ms": 293,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:39:23.785066Z",
+    "user_id": "Fatima822",
+    "ip": "188.247.180.76",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "871a1a7a",
+    "request_id": "67d882f9-d4b5-40cb-8009-61769cdf4a92",
+    "response_time_ms": 61,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:40:22.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.132.152",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "3e494676-8cb7-47c5-a439-96ff2d623d94",
+    "response_time_ms": 105,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T09:41:29.785734Z",
+    "user_id": "Maha214",
+    "ip": "212.138.243.158",
+    "city": "Riyadh",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "5003ea4b",
+    "request_id": "4b155773-01b5-4a81-9c93-10af6967ee05",
+    "response_time_ms": 72,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T10:03:53.786307Z",
+    "user_id": "Sara779",
+    "ip": "41.58.162.132",
+    "city": "Lagos",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "d3adead8",
+    "request_id": "68ab0f98-9eda-4254-9ca0-4bb8d4ad66dc",
+    "response_time_ms": 344,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T10:05:53.786307Z",
+    "user_id": "Sara779",
+    "ip": "41.58.184.37",
+    "city": "Lagos",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Update Mobile Number",
+    "status": "success",
+    "session_id": "d3adead8",
+    "request_id": "1b37d17c-6577-4a00-8360-8eb31c450e30",
+    "response_time_ms": 199,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T12:33:53.786217Z",
+    "user_id": "Reem422",
+    "ip": "212.138.22.196",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "dd0cd839",
+    "request_id": "f274ed6c-774e-4163-a283-819ca6aa3cd3",
+    "response_time_ms": 132,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T12:33:53.786264Z",
+    "user_id": "Haya925",
+    "ip": "212.138.235.213",
+    "city": "Riyadh",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "c06fa63c",
+    "request_id": "447f6bc3-4b46-4e55-9366-e34530ab4c6e",
+    "response_time_ms": 291,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T12:38:53.786217Z",
+    "user_id": "Reem422",
+    "ip": "212.138.70.116",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "dd0cd839",
+    "request_id": "764b11e5-8b8e-4db0-b43b-042be43d0279",
+    "response_time_ms": 312,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T12:38:53.786264Z",
+    "user_id": "Haya925",
+    "ip": "212.138.179.213",
+    "city": "Riyadh",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "c06fa63c",
+    "request_id": "e2fca7d9-ea36-4f52-9476-3a963d9dd9ac",
+    "response_time_ms": 121,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:03:53.786217Z",
+    "user_id": "Reem422",
+    "ip": "94.200.112.24",
+    "city": "Dubai",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "320c2052",
+    "request_id": "f7885349-6073-44bc-ba9d-a8f1cc22a346",
+    "response_time_ms": 163,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UAE"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:03:53.786264Z",
+    "user_id": "Haya925",
+    "ip": "185.220.115.158",
+    "city": "Unknown",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a57dd97a",
+    "request_id": "bab75d92-72dc-48a4-9b10-cb2979faa178",
+    "response_time_ms": 52,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "VPN/Tor"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:05:53.786217Z",
+    "user_id": "Reem422",
+    "ip": "94.200.227.90",
+    "city": "Dubai",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Cancel Visa",
+    "status": "success",
+    "session_id": "320c2052",
+    "request_id": "f2ca2413-4bd6-4d52-b106-f882cd256757",
+    "response_time_ms": 63,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UAE"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:05:53.786264Z",
+    "user_id": "Haya925",
+    "ip": "185.220.5.66",
+    "city": "Unknown",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Issue Exit Reentry",
+    "status": "success",
+    "session_id": "a57dd97a",
+    "request_id": "f1157859-f8e4-4984-9a08-80054d60d86d",
+    "response_time_ms": 160,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "VPN/Tor"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:53.785203Z",
+    "user_id": "Nasser756",
+    "ip": "188.247.117.95",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "026bc4b3",
+    "request_id": "53cc0b1d-a5b2-42f1-a069-21ce7bedb5df",
+    "response_time_ms": 393,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:53.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.97.40",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "5cb9e8b9-d84b-42e6-980b-f85a1039fc44",
+    "response_time_ms": 133,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:53.786327Z",
+    "user_id": "Lama438",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "a9606e0f",
+    "request_id": "9ebcc254-9b2c-45d9-8c96-f02f09601129",
+    "response_time_ms": 953,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:55.786327Z",
+    "user_id": "Fahad567",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "da701220",
+    "request_id": "e3e02a6c-1c9c-46a7-9d83-e5df6f8ae62c",
+    "response_time_ms": 1468,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:56.786327Z",
+    "user_id": "Faisal436",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "b83c0381",
+    "request_id": "adaab99e-e8d9-4269-be1f-e3a68f968de5",
+    "response_time_ms": 838,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:33:57.786327Z",
+    "user_id": "Faisal436",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "93bbe9f6",
+    "request_id": "c3a5f23b-1346-4b0e-9aa2-1b77deac6d6f",
+    "response_time_ms": 1214,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:02.786327Z",
+    "user_id": "Lama984",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "44bad4cf",
+    "request_id": "718a49e7-f23e-4101-8c73-8825d31d0a33",
+    "response_time_ms": 1234,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:03.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.185.113",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "fab9a400-caea-47e3-b3b6-c576aa04f00f",
+    "response_time_ms": 72,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:03.786327Z",
+    "user_id": "Majed423",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "feef3a8d",
+    "request_id": "e9a55f64-5d57-47cd-a1d6-78cdf5d87131",
+    "response_time_ms": 497,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:13.786327Z",
+    "user_id": "Majed423",
+    "ip": "41.58.91.62",
+    "city": "Lagos",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "feef3a8d",
+    "request_id": "a1d0dfb8-f7e8-4766-af22-a4943837148f",
+    "response_time_ms": 290,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Nigeria"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:21.785203Z",
+    "user_id": "Nasser756",
+    "ip": "188.247.151.191",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "026bc4b3",
+    "request_id": "777232a6-32be-4660-bd49-91b3bdb5be1e",
+    "response_time_ms": 422,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:34:50.785203Z",
+    "user_id": "Nasser756",
+    "ip": "188.247.168.26",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "026bc4b3",
+    "request_id": "172b4d7c-570b-4321-94ad-d875f68d459d",
+    "response_time_ms": 476,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:35:05.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.174.185",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "50e2d8ae-7786-4949-afe5-e52c7097f662",
+    "response_time_ms": 171,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:36:02.785203Z",
+    "user_id": "Nasser756",
+    "ip": "188.247.241.244",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "026bc4b3",
+    "request_id": "193330de-dabd-4404-ac70-f0a0c4b3c4d0",
+    "response_time_ms": 193,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:36:11.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.193.192",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "6932b06b-0ad5-4cff-8d29-a0277de54370",
+    "response_time_ms": 451,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:36:16.785203Z",
+    "user_id": "Nasser756",
+    "ip": "188.247.56.114",
+    "city": "Jeddah",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "026bc4b3",
+    "request_id": "191ce0a2-9349-42fe-b945-1f661d936f11",
+    "response_time_ms": 277,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:37:18.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.137.62",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "2a6c41b7-56d6-4a10-b4bc-4a3a9b02affe",
+    "response_time_ms": 208,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T13:39:11.786167Z",
+    "user_id": "Sara779",
+    "ip": "94.99.232.214",
+    "city": "Mecca",
+    "device": "Huawei P40",
+    "user_agent": "Mozilla/5.0 (Linux; Android 10; ELS-NX9) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "69ebda9a",
+    "request_id": "802b735e-7272-44e8-9699-2e236def8c6f",
+    "response_time_ms": 149,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:33:53.785150Z",
+    "user_id": "Ali159",
+    "ip": "188.247.247.20",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "6d4c027d",
+    "request_id": "706a7b9f-efc7-4749-94f5-0ae63bedb83f",
+    "response_time_ms": 122,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:33:53.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.95.140",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "afe4cc47-11bb-404c-bc34-654f71c5a970",
+    "response_time_ms": 380,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:33:53.785822Z",
+    "user_id": "Faisal888",
+    "ip": "188.247.110.81",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "a1f8c185",
+    "request_id": "98c83faa-34ea-43b4-b7da-10956e19e894",
+    "response_time_ms": 390,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:33:53.785990Z",
+    "user_id": "Ali803",
+    "ip": "94.99.112.151",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "c608f5dc",
+    "request_id": "acddfb10-5a4c-4d39-9bcc-c3d4d89928db",
+    "response_time_ms": 255,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:34:06.785822Z",
+    "user_id": "Faisal888",
+    "ip": "188.247.245.40",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "a1f8c185",
+    "request_id": "b0b2cf18-a413-42ce-b63f-252a1b95e0aa",
+    "response_time_ms": 401,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:34:09.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.102.71",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "def9dae7-05af-4fef-a535-13a8a83c2151",
+    "response_time_ms": 147,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:34:14.785990Z",
+    "user_id": "Ali803",
+    "ip": "94.99.102.223",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "c608f5dc",
+    "request_id": "30bbbc75-7cee-41c4-9fea-525411f02ff1",
+    "response_time_ms": 208,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:34:22.785150Z",
+    "user_id": "Ali159",
+    "ip": "188.247.221.174",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "6d4c027d",
+    "request_id": "204f7d6a-36dc-4e48-aad6-057001fe20ff",
+    "response_time_ms": 420,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:34:34.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.24.170",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "e15e106b-e328-4756-bc51-fc1fd2136b01",
+    "response_time_ms": 158,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:35:16.785822Z",
+    "user_id": "Faisal888",
+    "ip": "188.247.24.213",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "a1f8c185",
+    "request_id": "0538f0b3-8c8b-409d-a17f-3fa3264e7c33",
+    "response_time_ms": 93,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:35:37.785822Z",
+    "user_id": "Faisal888",
+    "ip": "188.247.25.191",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "a1f8c185",
+    "request_id": "97079779-8b43-4b04-a1a8-b010d0600846",
+    "response_time_ms": 428,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:35:58.785150Z",
+    "user_id": "Ali159",
+    "ip": "188.247.248.217",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Check Visa Status",
+    "status": "success",
+    "session_id": "6d4c027d",
+    "request_id": "8cf18e17-4bbb-458e-969e-2c4cbac16929",
+    "response_time_ms": 461,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:35:59.785990Z",
+    "user_id": "Ali803",
+    "ip": "94.99.57.86",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "c608f5dc",
+    "request_id": "f7ff3a05-d7fe-4a21-8361-f4665d7e74fc",
+    "response_time_ms": 448,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:36:06.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.13.202",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "15c552ae-25a2-473b-8eef-6b8cfb49f141",
+    "response_time_ms": 220,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:36:47.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.202.145",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Renew Iqama",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "a5c9f620-e543-42c2-8383-afa9bcd4a36b",
+    "response_time_ms": 155,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:37:05.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.151.56",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "4a95eab3-a7b8-4b25-9b74-dbcdc44830ce",
+    "response_time_ms": 466,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:37:19.785150Z",
+    "user_id": "Ali159",
+    "ip": "188.247.24.203",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "6d4c027d",
+    "request_id": "b842a812-d91e-4ea8-9e30-e73616d32f58",
+    "response_time_ms": 252,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:37:30.785150Z",
+    "user_id": "Ali159",
+    "ip": "188.247.138.32",
+    "city": "Jeddah",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "6d4c027d",
+    "request_id": "bf8fcb46-8939-490e-b707-b911b7d41e9f",
+    "response_time_ms": 282,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T14:37:44.785225Z",
+    "user_id": "Faisal222",
+    "ip": "86.110.199.38",
+    "city": "Khobar",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "e81f52c9",
+    "request_id": "ba119e70-1421-4f54-8249-aeaae346f667",
+    "response_time_ms": 453,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:53.784812Z",
+    "user_id": "Haya396",
+    "ip": "95.186.203.79",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "94f7297b",
+    "request_id": "53586a4c-41c5-4c87-a3b8-e5bcc57cf499",
+    "response_time_ms": 354,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:53.786054Z",
+    "user_id": "Haya233",
+    "ip": "94.99.95.213",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "ac138cf9",
+    "request_id": "a10c3b98-0463-4b5b-8549-b51371de6469",
+    "response_time_ms": 196,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:53.786243Z",
+    "user_id": "Yousef779",
+    "ip": "212.138.102.129",
+    "city": "Riyadh",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "f7a04ce9",
+    "request_id": "7c75511e-fae6-4b9c-9015-4a5f9f8ee264",
+    "response_time_ms": 241,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:53.786369Z",
+    "user_id": "Hassan169",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "9cfa7891",
+    "request_id": "518f94f0-dba2-4e60-bba2-a5740f1d85d1",
+    "response_time_ms": 1630,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:53.786464Z",
+    "user_id": "Noura183",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "fdb6e13f",
+    "request_id": "0e7ffa91-94b4-48dc-bad5-c346e4d27918",
+    "response_time_ms": 994,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:54.786369Z",
+    "user_id": "Abdullah971",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "313da6e9",
+    "request_id": "8a7d9d77-972a-4222-9fd8-ff8c43eb301f",
+    "response_time_ms": 1714,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:55.786369Z",
+    "user_id": "Ahmed698",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "7e5a70ec",
+    "request_id": "037e5999-34f2-4585-927c-2c28e58e77d8",
+    "response_time_ms": 593,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:56.786369Z",
+    "user_id": "Mohammed503",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "247a3fd1",
+    "request_id": "cb9ffd0d-7804-4fbb-8658-02cec89a463c",
+    "response_time_ms": 1291,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:57.786464Z",
+    "user_id": "Sultan651",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "2cebe09c",
+    "request_id": "69bddefa-59bb-4612-9beb-c0778e8415da",
+    "response_time_ms": 1000,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:33:59.786369Z",
+    "user_id": "Aisha508",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "d7444d27",
+    "request_id": "af04dcdf-8547-4eb1-9ad3-963d64e3fa75",
+    "response_time_ms": 190,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:00.786054Z",
+    "user_id": "Haya233",
+    "ip": "94.99.158.153",
+    "city": "Mecca",
+    "device": "Samsung Galaxy S22",
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; SM-S901B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Traffic Violations",
+    "status": "success",
+    "session_id": "ac138cf9",
+    "request_id": "a4c4e21e-cbe9-41c3-b9b6-8f43d5fe8dfe",
+    "response_time_ms": 309,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:01.786464Z",
+    "user_id": "Ali159",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "f6488bc3",
+    "request_id": "143521ae-1326-4596-bce5-d970b9605b0c",
+    "response_time_ms": 482,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:02.786369Z",
+    "user_id": "Ibrahim282",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "1dd236c1",
+    "request_id": "2efdec38-fea7-4d0c-be78-aaf031c3424c",
+    "response_time_ms": 793,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:04.786369Z",
+    "user_id": "Khalid987",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "cf74e1e8",
+    "request_id": "d3e7c3a0-7912-48e8-8138-f3206999d6be",
+    "response_time_ms": 1502,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:05.786464Z",
+    "user_id": "Majed365",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "a88f81c9",
+    "request_id": "a07f97bb-49af-4a28-94ea-7029381c441d",
+    "response_time_ms": 1118,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:08.786369Z",
+    "user_id": "Turki741",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "96c236c7",
+    "request_id": "20da3337-84cd-47e9-8749-d4114fb8809b",
+    "response_time_ms": 1080,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:08.786464Z",
+    "user_id": "Nasser412",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "25fb5fa9",
+    "request_id": "6f6f3a47-801e-40e0-9574-5e4050280d58",
+    "response_time_ms": 646,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:09.786464Z",
+    "user_id": "Faisal888",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "b21d820d",
+    "request_id": "3772ce1b-3cfd-4461-bba5-e98034ac1c27",
+    "response_time_ms": 969,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:10.786369Z",
+    "user_id": "Aisha508",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "6ba70914",
+    "request_id": "31745b1f-7917-45d6-8c11-a1b1fabbc1f2",
+    "response_time_ms": 229,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:10.786464Z",
+    "user_id": "Ali803",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "7ecccab7",
+    "request_id": "81025259-e201-44e0-9cc5-d88255bd4536",
+    "response_time_ms": 1333,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:12.786464Z",
+    "user_id": "Ibrahim282",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "307ae5c8",
+    "request_id": "fb56c8d4-b832-4965-b446-0b81a098d357",
+    "response_time_ms": 701,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:14.786369Z",
+    "user_id": "Haya925",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "309cb603",
+    "request_id": "2a2c92d6-6b36-47b6-ad98-199b63b916c4",
+    "response_time_ms": 700,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:15.786464Z",
+    "user_id": "Hassan801",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "67e53ffd",
+    "request_id": "d47e7aea-0960-41e2-aa30-af6b78cfa588",
+    "response_time_ms": 263,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:16.786369Z",
+    "user_id": "Ali881",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "d856a0f0",
+    "request_id": "6755d6fd-2850-41d8-a1bb-c4330798fad7",
+    "response_time_ms": 1720,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:18.786369Z",
+    "user_id": "Ali881",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "bb004487",
+    "request_id": "e6a5807e-ed65-4e4f-9e61-8b6008e4075e",
+    "response_time_ms": 746,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:18.786464Z",
+    "user_id": "Omar923",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "d3d94cd5",
+    "request_id": "3d4681d5-be76-47a9-b92b-2d54644baecb",
+    "response_time_ms": 705,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:21.784812Z",
+    "user_id": "Haya396",
+    "ip": "95.186.113.32",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "94f7297b",
+    "request_id": "d806b705-f4bc-4787-8614-cbf0250757a0",
+    "response_time_ms": 289,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:21.786369Z",
+    "user_id": "Faisal993",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "e5b9e18b",
+    "request_id": "cd008af1-f2bf-479f-b390-ad9674c5cfa9",
+    "response_time_ms": 915,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:21.786464Z",
+    "user_id": "Haya233",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "c21d912c",
+    "request_id": "0b40f6a4-7ac4-412e-8e0b-5263da811a6c",
+    "response_time_ms": 1334,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:25.786464Z",
+    "user_id": "Fahad400",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "d31d9d7f",
+    "request_id": "a559067f-95dd-4197-b04b-10bd285807cd",
+    "response_time_ms": 1512,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:26.786369Z",
+    "user_id": "Yousef473",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "a6e1dcf6",
+    "request_id": "823a0a9c-d9ab-4981-9d77-c3acffc29ca1",
+    "response_time_ms": 618,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:27.786369Z",
+    "user_id": "Sultan597",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "06908837",
+    "request_id": "967ee17e-eb4e-456b-a9f6-1a325b517b53",
+    "response_time_ms": 1424,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:29.786369Z",
+    "user_id": "Dana155",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "32d5b8b6",
+    "request_id": "d29d0916-b7c3-484d-826e-a47cb8723f4b",
+    "response_time_ms": 232,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:29.786464Z",
+    "user_id": "Ahmed698",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "5c57add7",
+    "request_id": "7f20c499-5f02-46f1-be1c-79d9b04450d5",
+    "response_time_ms": 1015,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:30.786464Z",
+    "user_id": "Faisal888",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "08c585ce",
+    "request_id": "c8cb2335-96e7-41ab-9c2d-130aaa6a14fa",
+    "response_time_ms": 1881,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:33.786464Z",
+    "user_id": "Lama318",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "failed",
+    "session_id": "dcd89a54",
+    "request_id": "e2feef39-0902-49f6-86ed-039e782dd4da",
+    "response_time_ms": 990,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:36.786464Z",
+    "user_id": "Hassan586",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "958e31dd",
+    "request_id": "d3270724-bf14-4847-ad1a-3935b74939cc",
+    "response_time_ms": 455,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:39.786369Z",
+    "user_id": "Dana155",
+    "ip": "95.173.252.96",
+    "city": "Moscow",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "32d5b8b6",
+    "request_id": "95aaf5f8-1237-4072-a1f8-05a359e72f61",
+    "response_time_ms": 491,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Russia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:34:46.786464Z",
+    "user_id": "Hassan586",
+    "ip": "51.140.70.32",
+    "city": "London",
+    "device": "Windows PC",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Change Password",
+    "status": "success",
+    "session_id": "958e31dd",
+    "request_id": "0e7b9d5b-2420-4aae-b670-d834af1eacf9",
+    "response_time_ms": 79,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:35:59.784812Z",
+    "user_id": "Haya396",
+    "ip": "95.186.180.104",
+    "city": "Abha",
+    "device": "Samsung Galaxy S23",
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-S911B) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "94f7297b",
+    "request_id": "dd447eb8-a1d7-4677-bad4-6cdeb503f543",
+    "response_time_ms": 189,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T16:38:53.786243Z",
+    "user_id": "Yousef779",
+    "ip": "212.138.61.99",
+    "city": "Riyadh",
+    "device": "iPhone 12",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "f7a04ce9",
+    "request_id": "c19dbdd3-8024-422f-8c7f-7cb3cfa54085",
+    "response_time_ms": 91,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:03:53.786243Z",
+    "user_id": "Yousef779",
+    "ip": "51.140.8.82",
+    "city": "London",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "2d8648ee",
+    "request_id": "06e39be4-6617-49f8-af72-843b247bc36a",
+    "response_time_ms": 100,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:05:53.786243Z",
+    "user_id": "Yousef779",
+    "ip": "51.140.203.38",
+    "city": "London",
+    "device": "iPhone 13",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Remove Dependent",
+    "status": "success",
+    "session_id": "2d8648ee",
+    "request_id": "6edc7183-64fc-4b69-9d73-fd38b7b78acb",
+    "response_time_ms": 120,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "UK"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:33:53.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.73.121",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "9408b301-5701-4889-9ae6-9ffddeb78b4e",
+    "response_time_ms": 295,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:33:53.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.223.139",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "login",
+    "service": "Authentication",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "a7e8ce67-1bc6-4664-a5e0-fd75bc3146ca",
+    "response_time_ms": 286,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:34:11.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.49.133",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "10dd617a-0394-4fb5-8949-36dd9ed192cd",
+    "response_time_ms": 235,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:34:12.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.48.248",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "Download Certificate",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "748cf4b0-fbca-4eae-8c80-bb46c0ee867c",
+    "response_time_ms": 76,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:34:54.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.30.211",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "820ef3be-76be-4c0a-bd95-f1244b25961f",
+    "response_time_ms": 83,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:35:40.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.161.114",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "1c708add-0ffa-461e-a7dc-80f1dc17f188",
+    "response_time_ms": 439,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:35:55.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.19.148",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "c266742d-8ce9-482d-a36d-fbcfd5d6c390",
+    "response_time_ms": 372,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:35:56.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.69.141",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "2e362ff8-6e0a-42b5-8206-734124742137",
+    "response_time_ms": 117,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:36:42.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.226.179",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Appointments",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "6daa0bac-4b15-4bfe-823a-fa3f5673c5ce",
+    "response_time_ms": 298,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:37:07.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.250.162",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "39085c77-2f11-4601-862f-d1a10c577a11",
+    "response_time_ms": 361,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:37:32.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.39.39",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Profile",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "1d5fa3d0-88cc-4680-a988-401690ea58a2",
+    "response_time_ms": 465,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:38:54.784734Z",
+    "user_id": "Hassan801",
+    "ip": "212.138.22.64",
+    "city": "Riyadh",
+    "device": "iPhone 14",
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "action": "access",
+    "service": "View Dependents",
+    "status": "success",
+    "session_id": "245930b5",
+    "request_id": "76897be9-853c-441e-bf01-27b50749238a",
+    "response_time_ms": 110,
+    "extra": {
+      "platform": "absher_app",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "timestamp": "2025-12-09T17:38:59.784884Z",
+    "user_id": "Faisal993",
+    "ip": "212.138.182.41",
+    "city": "Riyadh",
+    "device": "Mac",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "action": "access",
+    "service": "Check Passport Status",
+    "status": "success",
+    "session_id": "6f689149",
+    "request_id": "13810cd2-7f46-49d6-8ac6-d253b79bd157",
+    "response_time_ms": 209,
+    "extra": {
+      "platform": "absher_web",
+      "api_version": "v2",
+      "country": "Saudi Arabia"
+    }
+  }
+]
